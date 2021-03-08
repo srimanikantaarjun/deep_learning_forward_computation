@@ -19,5 +19,5 @@ The concepts covered would be:
   One - hot Encoding
   
   Evaluation metrics:
-    Accuracy
-    Squared Mean Absolute Error(optional, would suggest you to give it a try)
+    1: Accuracy ;
+    2: Squared Mean Absolute Error(optional, would suggest you to give it a try)
