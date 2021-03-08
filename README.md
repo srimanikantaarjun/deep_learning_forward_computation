@@ -10,8 +10,8 @@ We do this using mathematical concepts like, matrix, vectors, derivatives of for
 The concepts covered would be:
 
   Activation Functions:
-      Rectified Linear Unit
-      Softmax function
+      1: Rectified Linear Unit ; 
+      2: Softmax function
   
   Loss:
     Cross-Entropy Loss
